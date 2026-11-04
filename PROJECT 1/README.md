@@ -258,11 +258,13 @@ Sum of Profit Amount  :   226,098.34
 
 **Page 1 — Superstore Sales Dashboard**
 
-![Superstore Sales Dashboard](c:\POWER BI\PROJECT 1\OUTPUT PHOTOS\SALES DASHBOARD.png)
+![Superstore Sales Dashboard](<img width="1957" height="1125" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/5b1613f4-3625-4892-98d3-40466b27a54f" />
+)
 
 **Page 2 — Order Details**
 
-![Order Details](c:\POWER BI\PROJECT 1\OUTPUT PHOTOS\ORDER DETAILS.png)
+![Order Details](<img width="1916" height="1081" alt="ORDER DETAILS" src="https://github.com/user-attachments/assets/1211ea93-4c2e-4940-b55b-6d6721b057e7" />
+)
 
 ---
 
