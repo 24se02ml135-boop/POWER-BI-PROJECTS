@@ -368,4 +368,7 @@ Special thanks to the following resources and communities that made this project
 
 *Made with ❤️ and ☕ — Last updated: November 2026*
 
+EXPLANATION VIDEO :- "C:\Users\ASUS\Videos\Icecream Screen Recorder\PROJECT 1 VIDEO.webm"
+
+
 </div>
