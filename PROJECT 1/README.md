@@ -258,12 +258,14 @@ Sum of Profit Amount  :   226,098.34
 
 **Page 1 — Superstore Sales Dashboard**
 
-![Superstore Sales Dashboard](<img width="1957" height="1125" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/5b1613f4-3625-4892-98d3-40466b27a54f" />
+![Superstore Sales Dashboard](<img width="1957" height="1125" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/54c180f4-3f0a-4ba0-85f5-762057ae5a85" />
+
 )
 
 **Page 2 — Order Details**
 
-![Order Details](<img width="1916" height="1081" alt="ORDER DETAILS" src="https://github.com/user-attachments/assets/1211ea93-4c2e-4940-b55b-6d6721b057e7" />
+![Order Details](<<img width="1916" height="1081" alt="ORDER DETAILS" src="https://github.com/user-attachments/assets/f6a2f936-5827-4800-9a27-cfc995c8532e" />
+
 )
 
 ---
